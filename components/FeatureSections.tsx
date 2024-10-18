@@ -21,7 +21,7 @@ const FeatureSection1 = (props: Props) => {
                 </div>
             </div>
             <div className='border-y-white border-y-4 relative'>
-              <Image src="/images/image 2.png" fill objectFit='contain' alt="Calculating on a board "/>
+              <Image src="/images/image 2.png" fill alt="Calculating on a board "/>
             </div>
         </div>
     </section>
@@ -33,7 +33,7 @@ const FeatureSection2 = (props: Props) => {
     <section className='p-8'>
         <div className='grid lg:grid-cols-2 container min-h-64'>
             <div className='border-y-white border-y-4 relative'>
-              <Image src="/images/Studying-cuate.png" fill objectFit='contain' alt="Person studying, taking notes"/>
+              <Image src="/images/Studying-cuate.png" fill alt="Person studying, taking notes"/>
             </div>
             <div className='border-y-white border-y-4 text-white p-8'>
                 <p className='-mb-2'>MOST ADVANCED AI NOTES</p>

@@ -21,7 +21,7 @@ const History = (props: Props) => {
                   </div>
               </div>
               <div className='border-y-white border-y-4 relative'>
-                <Image src="/images/image 2.png" fill objectFit='contain' alt="Calculating on a board "/>
+                <Image src="/images/image 2.png" fill alt="Calculating on a board "/>
               </div>
           </div>
       </section>

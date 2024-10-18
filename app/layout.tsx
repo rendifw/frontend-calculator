@@ -3,7 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { Orbitron, Montserrat } from '@next/font/google';
+import { Orbitron, Montserrat } from 'next/font/google';
 
 const orbitron = Orbitron({
   subsets: ['latin'], 

@@ -16,7 +16,6 @@ const navLinks: NavProps[] = [
   { text: "Home", href: "/" },
   { text: "About Us", href: "/about" },
   { text: "Tutorials", href: "/tutorials" },
-  { text: "Calculator", href: "/calculator" },
 ];
 
 const Header = (props: Props) => {
